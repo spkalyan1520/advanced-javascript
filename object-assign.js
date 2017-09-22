@@ -1,0 +1,15 @@
+var obj1 = {a:0,b:{c:0}};
+var obj2 = Object.assign({},obj1);
+obj2.a=1;
+console.log(JSON.stringify(obj1));
+console.log(JSON.stringify(obj2));
+obj2.b.c=2;
+console.log('\n\n');
+console.log(JSON.stringify(obj1));
+console.log(JSON.stringify(obj2));
+var obj3 = Object.assign({d:5},obj1,obj2);
+obj3.b = {c:1};
+console.log('\n\n');
+console.log(JSON.stringify(obj1));
+console.log(JSON.stringify(obj2));
+console.log(JSON.stringify(obj3));
