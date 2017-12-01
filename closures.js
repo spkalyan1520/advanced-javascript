@@ -1,5 +1,5 @@
 function fo() {
-var i=0;
+  var i=0;
   return function(n){
     return n+i++;
   }
