@@ -1,0 +1,7 @@
+https://vimeo.com/69255635 - Prototypal Inheritance
+
+https://youtu.be/wfMtDGfHWpA - Composition over inheritance
+
+https://youtu.be/ImwrezYhw4w - Factory Functions in Javascript
+
+https://youtu.be/CQqwU2Ixu-U - Closures
