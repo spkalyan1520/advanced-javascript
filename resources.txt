@@ -1,3 +1,5 @@
+https://youtu.be/GhbhD1HR5vk - this and bind
+
 https://vimeo.com/69255635 - Prototypal Inheritance
 
 https://youtu.be/wfMtDGfHWpA - Composition over inheritance
@@ -5,3 +7,5 @@ https://youtu.be/wfMtDGfHWpA - Composition over inheritance
 https://youtu.be/ImwrezYhw4w - Factory Functions in Javascript
 
 https://youtu.be/CQqwU2Ixu-U - Closures
+
+https://youtu.be/iZLP4qOwY8I - Currying
