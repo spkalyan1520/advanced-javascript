@@ -9,3 +9,8 @@ https://youtu.be/ImwrezYhw4w - Factory Functions in Javascript
 https://youtu.be/CQqwU2Ixu-U - Closures
 
 https://youtu.be/iZLP4qOwY8I - Currying
+
+https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84 - Functional Programming in Javascript
+
+https://www.youtube.com/watch?v=dfSBKZ1lI8c - Making Scalable javascript
+
