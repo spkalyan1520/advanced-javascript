@@ -13,7 +13,7 @@ boundFunction();
 
 //Interfaces(actually inheritance) with JS
 let animal = {
-    sound:'',
+    sound:'qiacl',
     talk:function(){
         console.log(this.sound);
     }
